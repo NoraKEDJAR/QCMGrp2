@@ -10,7 +10,7 @@
 			$str_language = 'en';
 			break;
 		default:
-			$str_language = 'en';
+			$str_language = 'en test';
 	}
     
 	$arr_available_languages = array();
